@@ -1,4 +1,4 @@
-package com;
+package com.event;
 
 import org.springframework.context.ApplicationListener;
 import org.springframework.stereotype.Component;

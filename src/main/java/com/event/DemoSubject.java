@@ -1,4 +1,4 @@
-package com;
+package com.event;
 
 import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.context.ApplicationEventPublisherAware;

@@ -1,7 +1,7 @@
-package com;
+package com.event;
 
-import com.DemoConfig;
-import com.DemoSubject;
+import com.event.DemoConfig;
+import com.event.DemoSubject;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
